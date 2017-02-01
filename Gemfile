@@ -18,8 +18,7 @@ gem 'coffee-rails', '~> 4.2'
 
 ####### Added GEMs #######
 gem 'twitter'
-# gem 'materialize-sass'
-
+gem 'heroku'
 ##########################
 
 # Use jquery as the JavaScript library
